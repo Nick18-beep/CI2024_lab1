@@ -1,6 +1,6 @@
 # CI2024_lab1
 
-la migliore soluzione che ho trovato è stata partire da una greedy e poi ottimizzarla
+la migliore soluzione che ho trovato è stata generando partendo da una soluzione greedy e poi ottimizzandola prediligendo l' esplorazione
 
 
 
